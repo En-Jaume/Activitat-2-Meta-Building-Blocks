@@ -325,7 +325,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _buttonClickActions:
   - Title: ModeVR
-    Button: 8192
+    Button: 8194
     ButtonMode: 0
     InputActionReference: {fileID: 0}
     CallbackWithContext:
@@ -347,7 +347,7 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
   - Title: ModePassThrough
-    Button: 2097152
+    Button: 1
     ButtonMode: 0
     InputActionReference: {fileID: 0}
     CallbackWithContext:
