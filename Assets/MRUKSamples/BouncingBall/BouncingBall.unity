@@ -669,7 +669,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   trackingSpace: {fileID: 1745996867}
   rightControllerPivot: {fileID: 968346920}
-  ballPrefab: {fileID: 3931749881970468426, guid: 3abe693e061ff3d4781d623a0c9856c2, type: 3}
+  ballPrefab: {fileID: 1324215765776546514, guid: 8df759d390129974cbcb5e22c1eaa10c, type: 3}
 --- !u!1 &373097947
 GameObject:
   m_ObjectHideFlags: 0
