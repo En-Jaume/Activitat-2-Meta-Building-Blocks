@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/mr_xr_dk.unity
+    guid: 71ee504d7d06eaa449bd6f70f2ce877b
+  - enabled: 1
+    path: Assets/MRUKSamples/BouncingBall/BouncingBall.unity
+    guid: 8f96b0c0fd5605a4f8477abdb8e65436
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
