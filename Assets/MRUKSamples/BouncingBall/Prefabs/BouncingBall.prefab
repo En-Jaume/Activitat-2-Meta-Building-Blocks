@@ -44,7 +44,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3931749881970468426}
-  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: -2731497076114652374, guid: 6b0598b0ef3cf244890a3a27ddad9d97, type: 3}
 --- !u!23 &3931749881970468424
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -70,7 +70,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 393d64b573215e544b8b5cc315e10d68, type: 2}
+  - {fileID: 2100000, guid: 23602970d2c266049b9aaadfbc4b9e5c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -129,9 +129,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TTL: 5
   pop: {fileID: 8300000, guid: 9a752d3328516a44384df0f171c8a5ca, type: 3}
-  bounce: {fileID: 8300000, guid: 229f46af248b4c74facf863a061f856b, type: 3}
+  bounce: {fileID: 8300000, guid: db3481a51202dfa408cf8c325e667b79, type: 3}
   loadball: {fileID: 8300000, guid: e73b66c29312de047ba040fb2231cdda, type: 3}
-  visibleMat: {fileID: 2100000, guid: 393d64b573215e544b8b5cc315e10d68, type: 2}
+  visibleMat: {fileID: 2100000, guid: 23602970d2c266049b9aaadfbc4b9e5c, type: 2}
   hiddenMat: {fileID: 2100000, guid: 9827083418370bd4383a7507ca039547, type: 2}
 --- !u!54 &413594911
 Rigidbody:

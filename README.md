@@ -1,15 +1,16 @@
-# VR-Activitat-1
-Functional Augmented Reality (AR) application using Unity Engine and the AR Foundation package for android, including:
+# VR-Activitat-2
 
-Activity 1 – Plane Detection
+Virtual Reality App using Meta Building Blocks in Unity:
 
-Activity 2 – Image Tracking
+Activity 1 – Grab and Locomotion
 
-Activity 3 – Additional AR Foundation Feature (oclussion)
+Activity 2 – Passthrough and Hand Tracking (MR) 
+
+Activity 3 – Additional Building Block - MRUKSample BouncingBall
 
 ## Installation
 
-Download the .apk file in your android device to test the app or download the project file and open it in Unity 6000.6.4f1
+Download the .apk file in your Meta Quest 3 device to test the app or download the project file and open it in Unity 6000.6.4f1
 
 ## Usage
 
@@ -38,3 +39,4 @@ Javier Vida
 Laia Canaleta
 
 Jaume Benejam
+

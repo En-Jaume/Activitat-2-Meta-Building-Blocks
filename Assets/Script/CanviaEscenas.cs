@@ -1,16 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class CanviaEscena : MonoBehaviour
+public class CanviaEscenaMenu : MonoBehaviour
 {
-    public void Activitat123()
+    public void CanviEscena(string sceneName)
     {
-        SceneManager.LoadSceneAsync(0);
-    }
-    public void MRUKSample()
-    {
-        SceneManager.LoadSceneAsync(1);
+        SceneManager.LoadScene(sceneName);
     }
 }
