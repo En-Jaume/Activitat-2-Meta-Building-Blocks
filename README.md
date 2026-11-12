@@ -4,7 +4,7 @@ Virtual Reality App using Meta Building Blocks in Unity:
 
 Activity 1 – Grab and Locomotion
 
-Activity 2 – Passthrough and Hand Tracking (MR) 
+Activity 2 – Passthrough and Hand Tracking (MR)
 
 Activity 3 – Additional Building Block - MRUKSample BouncingBall
 
@@ -12,21 +12,15 @@ Activity 3 – Additional Building Block - MRUKSample BouncingBall
 
 Download the .apk file in your Meta Quest 3 device to test the app or download the project file and open it in Unity 6000.6.4f1
 
+
+
 ## Usage
 
-When you enter the application a menu will pop with the three activities listed:
+When you enter the application activity 1 and 2 open. In there you can grab the hammer and the sickle with your hands and also with the controllers. You can also change from VR to Passthrough mode with the X and Y buttons from the controller.
 
-**Activity 1 – Plane Detection**
+If you want to open activity 3 you only have to press the Primary Left ThumbStick. In this activity you can throw spiked balls to your room if you have scanned it previously.
 
-Scan the enviorment and open the menu and chose the object you want to place down (preferably da bomb). Click any surface on your screen and the object will be placed down.
 
-**Activity 2 – Image Tracking**
-
-Scan the enviorment and find one of the two pictures that activate the function and a 3d model will appear on it.
-
-**Activity 3 – Additional AR Foundation Feature (oclussion)**
-
-Click the screen to throw bombs at anything you want. (They sadly do not explode and cause real destruction, we are working on it! :D)
 
 ## Credits
 
